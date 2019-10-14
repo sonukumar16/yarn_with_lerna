@@ -8,5 +8,6 @@
   },
   "dependencies": {
     "@my-scope-name/my-design-system-button": "^1.0.1"
-  }
+  },
+  "gitHead": "0d607a3b44852a8c815ceb5000314090dc25c58b"
 }
