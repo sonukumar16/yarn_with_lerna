@@ -1,10 +1,9 @@
 {
   "name": "@my-scope-name/my-design-system-core",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-  "license": "MIT",
-  "dependencies": {}
+  "license": "MIT"
 }
