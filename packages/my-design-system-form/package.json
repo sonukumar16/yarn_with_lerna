@@ -1,0 +1,12 @@
+{
+  "name": "@my-scope-name/my-design-system-form",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@my-scope-name/my-design-system-button": "^1.0.0"
+  }
+}
